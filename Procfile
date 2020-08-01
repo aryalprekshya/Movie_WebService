@@ -1,0 +1,1 @@
+web: java -Dswarm.http.port=$PORT -jar target/MovieWebService-1.0-SNAPSHOT-thorntail.jar
